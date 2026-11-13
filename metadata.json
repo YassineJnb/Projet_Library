@@ -1,0 +1,10 @@
+{
+  "name": "Remix Library Manager",
+  "description": "Minimalist library management web app with multicomponent search, copy-level QR codes, academic student borrowing, and an overdue meter for administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
